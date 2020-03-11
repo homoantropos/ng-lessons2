@@ -1,0 +1,41 @@
+span
+{
+font-size: 30px;
+}
+
+.btn
+{
+	width: 110px;
+	padding: 5px;
+	background-color: gold;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	border: 1px solid gold;
+}
+
+.btn:hover
+{
+	background-color: white;
+	color: gold;
+}
+
+.dbtnbox
+{
+	text-align: center;
+	margin-top: 25px;
+	width: 150px;
+	padding: 10px;
+	border: 2px solid gold;
+}
+
+.btn:line
+{
+	float: left;
+}
+
+.btn:box
+{
+	display: block;
+	border: 1px solid gold;
+}
